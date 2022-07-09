@@ -6,7 +6,7 @@ While utilizing the ETL process, this analysis investigated if Video Game review
 
 Non Vine Reviews        |  Vine Reviews
 :-------------------------:|:-------------------------:
-![non_vine_reviews]()  |  ![vine_reviews]()
+![non_vine_reviews](https://github.com/lbp12/Amazon_Vine_Analysis/blob/main/Images/unpaid_reviews.png)  |  ![vine_reviews](https://github.com/lbp12/Amazon_Vine_Analysis/blob/main/Images/paid_reviews.png)
 
 - There were 0 reivews from Vine members and 1685 reviews from non-Vine members<br>
 - There were 0 5-star reviews from Vine members, because there are no reiviews from Vine members. There are 631 5-star reviews from non-Vine members.
